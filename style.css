@@ -1,0 +1,17 @@
+#btn1{
+    background-color: skyblue;
+    color: white;
+}
+#btn1:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.logo{
+    height: 80px;
+    width: 100px;
+}
+a{
+    text-decoration: none;
+}
